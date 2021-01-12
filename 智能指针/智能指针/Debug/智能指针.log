@@ -1,0 +1,37 @@
+﻿生成启动时间为 2020/12/24 16:02:09。
+     1>项目“C:\Users\lenovo1\Documents\Visual Studio 2013\Projects\智能指针\智能指针\智能指针.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt SmartPtr.cpp
+         SmartPtr.cpp
+     1>c:\users\lenovo1\documents\visual studio 2013\projects\智能指针\智能指针\smartptr.cpp(402): error C2039: “shared_ptr”: 不是“std”的成员
+     1>c:\users\lenovo1\documents\visual studio 2013\projects\智能指针\智能指针\smartptr.cpp(402): error C2065: “shared_ptr”: 未声明的标识符
+     1>c:\users\lenovo1\documents\visual studio 2013\projects\智能指针\智能指针\smartptr.cpp(402): error C2065: “A”: 未声明的标识符
+     1>c:\users\lenovo1\documents\visual studio 2013\projects\智能指针\智能指针\smartptr.cpp(402): error C2061: 语法错误: 标识符“A”
+     1>c:\users\lenovo1\documents\visual studio 2013\projects\智能指针\智能指针\smartptr.cpp(402): error C2065: “DeleteArray”: 未声明的标识符
+     1>c:\users\lenovo1\documents\visual studio 2013\projects\智能指针\智能指针\smartptr.cpp(402): error C2059: 语法错误:“)”
+     1>c:\users\lenovo1\documents\visual studio 2013\projects\智能指针\智能指针\smartptr.cpp(403): error C2039: “shared_ptr”: 不是“std”的成员
+     1>c:\users\lenovo1\documents\visual studio 2013\projects\智能指针\智能指针\smartptr.cpp(403): error C2065: “shared_ptr”: 未声明的标识符
+     1>c:\users\lenovo1\documents\visual studio 2013\projects\智能指针\智能指针\smartptr.cpp(403): error C2065: “A”: 未声明的标识符
+     1>c:\users\lenovo1\documents\visual studio 2013\projects\智能指针\智能指针\smartptr.cpp(403): error C2061: 语法错误: 标识符“A”
+     1>c:\users\lenovo1\documents\visual studio 2013\projects\智能指针\智能指针\smartptr.cpp(403): error C2065: “ptr”: 未声明的标识符
+     1>c:\users\lenovo1\documents\visual studio 2013\projects\智能指针\智能指针\smartptr.cpp(403): error C2541: “delete”: 不能删除不是指针的对象
+     1>c:\users\lenovo1\documents\visual studio 2013\projects\智能指针\智能指针\smartptr.cpp(402): error C3861: “sp1”:  找不到标识符
+     1>c:\users\lenovo1\documents\visual studio 2013\projects\智能指针\智能指针\smartptr.cpp(403): error C3861: “sp2”:  找不到标识符
+     1>c:\users\lenovo1\documents\visual studio 2013\projects\智能指针\智能指针\smartptr.cpp(405): error C2039: “shared_ptr”: 不是“std”的成员
+     1>c:\users\lenovo1\documents\visual studio 2013\projects\智能指针\智能指针\smartptr.cpp(405): error C2065: “shared_ptr”: 未声明的标识符
+     1>c:\users\lenovo1\documents\visual studio 2013\projects\智能指针\智能指针\smartptr.cpp(405): error C2065: “A”: 未声明的标识符
+     1>c:\users\lenovo1\documents\visual studio 2013\projects\智能指针\智能指针\smartptr.cpp(405): error C2059: 语法错误:“)”
+     1>c:\users\lenovo1\documents\visual studio 2013\projects\智能指针\智能指针\smartptr.cpp(405): error C2143: 语法错误 : 缺少“;”(在“{”的前面)
+     1>c:\users\lenovo1\documents\visual studio 2013\projects\智能指针\智能指针\smartptr.cpp(405): error C2065: “ptr”: 未声明的标识符
+     1>c:\users\lenovo1\documents\visual studio 2013\projects\智能指针\智能指针\smartptr.cpp(405): error C3861: “sp3”:  找不到标识符
+     1>c:\users\lenovo1\documents\visual studio 2013\projects\智能指针\智能指针\smartptr.cpp(405): error C2143: 语法错误 : 缺少“;”(在“)”的前面)
+     1>c:\users\lenovo1\documents\visual studio 2013\projects\智能指针\智能指针\smartptr.cpp(406): error C2039: “shared_ptr”: 不是“std”的成员
+     1>c:\users\lenovo1\documents\visual studio 2013\projects\智能指针\智能指针\smartptr.cpp(406): error C2065: “shared_ptr”: 未声明的标识符
+     1>c:\users\lenovo1\documents\visual studio 2013\projects\智能指针\智能指针\smartptr.cpp(406): error C2275: “FILE”: 将此类型用作表达式非法
+                 c:\program files (x86)\microsoft visual studio 12.0\vc\include\stdio.h(73) : 参见“FILE”的声明
+     1>c:\users\lenovo1\documents\visual studio 2013\projects\智能指针\智能指针\smartptr.cpp(406): error C3861: “sp4”:  找不到标识符
+     1>已完成生成项目“C:\Users\lenovo1\Documents\Visual Studio 2013\Projects\智能指针\智能指针\智能指针.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.85
